@@ -3,3 +3,5 @@ This java file is simply having two functions
 Encryption And Decryption of Play_Fair Cipher 
 using only String and not using 2D Arrays 
 That is it 
+
+For the comments they are kind of messed up
