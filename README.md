@@ -4,4 +4,6 @@ Encryption And Decryption of Play_Fair Cipher
 using only String and not using 2D Arrays 
 That is it 
 
+And it is complexity level is linear time O(n)
+
 For the comments they are kind of messed up
